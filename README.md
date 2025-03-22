@@ -159,7 +159,7 @@ The RecCore kernel is licensed under **GPL-3.0**. For details, see the [LICENSE]
 
 ## **Contact**
 - **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **GitHub**: [publicesium](https://github.com/has4580aah)
 
 ---
 
@@ -173,8 +173,3 @@ Thanks to all contributors and users for their support! Special thanks to the fo
 
 ---
 
-### **Notes**
-- Replace `YOUR_BASE64_IMAGE_HERE` with your RecCore Logo's Base64 encoding.
-- Replace `yourusername` with your GitHub username.
-- If the project is hosted on another platform (e.g., GitLab), update the links.
-- Adjust the code structure and descriptions based on actual functionality.
