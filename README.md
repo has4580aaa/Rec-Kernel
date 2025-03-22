@@ -1,6 +1,6 @@
 ---
 
-# ![RecCore Logo](rec.png)
+# ![RecCore Logo](REC.png)
 
 RecCore is a lightweight operating system kernel designed specifically for ARM64 architecture, written entirely in C. It focuses on efficient task scheduling, memory management, and device driver support. This kernel system supports only ARM64 architecture; 32-bit systems are not supported. System drives and network mounts are located under the `drives` directory. Future plans include a Flex version with a modern user interface (UI).
 
